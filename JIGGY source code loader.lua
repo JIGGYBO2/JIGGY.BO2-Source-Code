@@ -5128,3 +5128,7 @@ v0.CreateBullet = function(_, v85, v86, v87, _, v89, v90, v91, v92) --[[ Line: 1
     end;
 end;
 return v0;
+
+
+
+you thought nigga stop skidding.
